@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jetpack Series</string>
+    <string name="title_activity_scaffold">ScaffoldActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_recycler_activity">title_recycler_activity</string>
+    <string name="JetpackSeries">JetpackSeries</string>
+    <string name="RetrofitActivity">RetrofitActivity</string>
+</resources>
